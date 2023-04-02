@@ -1,0 +1,1 @@
+[{"producto":{"nombre":"Manzana","peso":[1.0,"kg"],"precio":240.0},"descuento":{"tipo":"DescuentoPorcentaje","cantidad":0.2,"tope":50.0},"fechaDesde":"2023-02-23","fechaHasta":"2023-03-23"},{"producto":{"nombre":"Banana","peso":[1.0,"kg"],"precio":300.0},"descuento":{"tipo":"DescuentoPorcentaje","cantidad":0.15,"tope":45.0},"fechaDesde":"2023-02-23","fechaHasta":"2023-02-23"}]
